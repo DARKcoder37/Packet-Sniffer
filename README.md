@@ -26,3 +26,7 @@ Same goes for AF_INET.
 
 ### 5) TCP packet
 ![image](https://user-images.githubusercontent.com/72330781/232048758-c31a6a19-92c0-4bd5-ba89-47a968b25698.png)
+
+### 6) UDP Packet
+![image](https://user-images.githubusercontent.com/72330781/232089437-81bb5f63-4bcc-4b5f-be4e-8ad88e8024a0.png)
+
