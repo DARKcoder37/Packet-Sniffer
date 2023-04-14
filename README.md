@@ -16,3 +16,8 @@ Same goes for AF_INET.
 ### 2) Mac Address unpacking
 
 <img width="385" alt="after unpack" src="https://user-images.githubusercontent.com/72330781/232037208-6bfa6f90-e7c5-4384-a0d0-d12c4cd6d2f7.png">
+
+
+### 3) IPv4 Header
+![image](https://user-images.githubusercontent.com/72330781/232037926-6aa54b29-cc71-474c-b19e-9eaf345d442d.png)
+
