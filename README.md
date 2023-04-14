@@ -21,3 +21,7 @@ Same goes for AF_INET.
 ### 3) IPv4 Header
 ![image](https://user-images.githubusercontent.com/72330781/232037926-6aa54b29-cc71-474c-b19e-9eaf345d442d.png)
 
+
+### 4) ICMP packet
+![image](https://user-images.githubusercontent.com/72330781/232047683-196dedc8-ed1a-4f32-8df4-72a254666e85.png)
+
